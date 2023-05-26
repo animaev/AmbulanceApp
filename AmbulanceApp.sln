@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbulanceApp", "AmbulanceApp\AmbulanceApp.csproj", "{8731DC04-3646-4311-884C-362A9FE8EC9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8731DC04-3646-4311-884C-362A9FE8EC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8731DC04-3646-4311-884C-362A9FE8EC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8731DC04-3646-4311-884C-362A9FE8EC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8731DC04-3646-4311-884C-362A9FE8EC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCED594F-14D9-4D0A-8F09-2492761337CB}
+	EndGlobalSection
+EndGlobal
